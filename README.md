@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating inno
 
 - 📧 **Email**: [wilsonlo800@gmail.com](mailto:wilsonlo800@gmail.com)
 - 📱 **Phone**: +1 (510)-299-7368
-- 💼 **LinkedIn**: [linkedin.com/in/wilson-lo](https://www.linkedin.com/in/wilson-lo-124719320/)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/wilson-lo-124719320/)
 - 📸 **Instagram**: [@wilson.s.lo](https://instagram.com/wilson.s.lo)
 
 ## 📊 GitHub Stats
