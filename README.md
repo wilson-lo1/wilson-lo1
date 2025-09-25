@@ -30,10 +30,10 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating inno
 
 ## 📞 Contact Information
 
-- 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)
-- 📱 **Phone**: +1 (555) 123-4567
-- 💼 **LinkedIn**: [linkedin.com/in/wilson-lo](https://linkedin.com/in/wilson-lo)
-- 📸 **Instagram**: [@wilson_codes](https://instagram.com/wilson_codes)
+- 📧 **Email**: [wilsonlo800@gmail.com](mailto:wilsonlo800@gmail.com)
+- 📱 **Phone**: +1 (510)-299-7368
+- 💼 **LinkedIn**: [linkedin.com/in/wilson-lo](https://www.linkedin.com/in/wilson-lo-124719320/)
+- 📸 **Instagram**: [@wilson.s.lo](https://instagram.com/wilson.s.lo)
 
 ## 📊 GitHub Stats
 
