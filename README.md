@@ -1,8 +1,9 @@
-# Hi there, I'm Wilson! 👋
+# Howdy, I'm Wilson, hope my profile interests you :) 
 
 ## About Me
-Welcome to my GitHub profile! I'm a passionate developer who loves creating innovative solutions and learning new technologies. I enjoy working on both frontend and backend projects, and I'm always excited to collaborate on interesting projects that make a difference.
+I'm a high school developer experienced with app and game development. My main projects are developed using Flutter, Godot, and React Native. I am most comfortable with Java, but can also use Python, C++, and many other languages.
 
+I am extremely interested in pursuing rocketry, robotics, and mechatronics. Feel free to reach out about any projects you'd like me to work on!
 
 
 ## �️ Tech Stack
@@ -22,28 +23,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating inno
 - 📧 **Email**: [wilsonlo800@gmail.com](mailto:wilsonlo800@gmail.com)
 - 📱 **Phone**: +1 (510)-299-7368
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/wilson-lo-124719320/)
-- 📸 **Instagram**: [@wilson.s.lo](https://instagram.com/wilson.s.lo)
+- 📸 [**Instagram**](https://instagram.com/wilson.s.lo)
 
-## 📊 GitHub Stats
-
-![Wilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilson-lo1&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wilson-lo1&layout=compact&theme=radical)
-
-## 🌟 Featured Projects
-
-<!-- Add your featured projects here -->
-- 🚀 Project 1: Brief description
-- 💡 Project 2: Brief description
-- 🔧 Project 3: Brief description
-
-## 💭 Currently
-
-- 🔭 I'm currently working on exciting web applications
-- 🌱 I'm currently learning advanced cloud technologies
-- 👯 I'm looking to collaborate on open source projects
-- 💬 Ask me about web development, programming, or tech in general!
+## Currently
+Full-stack devloping an app to aid neuroscience researchers in optogenetic studies!
 
 ---
-Feel free to reach out if you'd like to work on a project together!
-
