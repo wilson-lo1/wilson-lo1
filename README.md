@@ -6,7 +6,7 @@ I'm a high school developer experienced with app and game development. My main p
 I am extremely interested in pursuing rocketry, robotics, and mechatronics. Feel free to reach out about any projects you'd like me to work on!
 
 
-## �️ Tech Stack
+## Tech Stack
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
@@ -26,6 +26,6 @@ I am extremely interested in pursuing rocketry, robotics, and mechatronics. Feel
 - 📸 [**Instagram**](https://instagram.com/wilson.s.lo)
 
 ## Currently
-Full-stack devloping an app to aid neuroscience researchers in optogenetic studies!
+Full-stack developing an app to aid neuroscience researchers in optogenetic studies!
 
 ---
