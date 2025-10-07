@@ -1,7 +1,7 @@
 # Howdy, I'm Wilson, hope my profile interests you :) 
 
 ## About Me
-I'm a high school developer experienced with app and game development. My main projects are developed using Flutter, Godot, and React Native. I am most comfortable with Java, but can also use Python, C++, and many other languages.
+I'm a high school developer experienced with mobile app and game development. My main projects are developed using Flutter, Godot, and React Native. I am most comfortable with Java, but can also use Python, C++, and many other languages.
 
 I am extremely interested in pursuing rocketry, robotics, and mechatronics. Feel free to reach out about any projects you'd like me to work on!
 
