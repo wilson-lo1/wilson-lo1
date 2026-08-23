@@ -33,4 +33,3 @@ Full-stack developing an app to aid neuroscience researchers in optogenetic stud
 
 
 
-<!-- Fun fact: rockets go brrr 🚀 -->
