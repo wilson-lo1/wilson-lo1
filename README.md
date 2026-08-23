@@ -29,3 +29,5 @@ I am extremely interested in pursuing rocketry, robotics, and mechatronics. Feel
 Full-stack developing an app to aid neuroscience researchers in optogenetic studies!
 
 ---
+
+<!-- Fun fact: rockets go brrr 🚀 -->
