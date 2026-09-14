@@ -22,10 +22,5 @@ I am extremely interested in pursuing rocketry, robotics, and mechatronics. Feel
 
 - 📧 **Email**: [wilsonlo800@gmail.com](mailto:wilsonlo800@gmail.com)
 - 📱 **Phone**: +1 (510)-299-7368
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/wilson-lo-124719320/)
-- 📸 [**Instagram**](https://instagram.com/wilson.s.lo)
-
-## Currently
-Full-stack developing an app to aid neuroscience researchers in optogenetic studies!
 
 ---
