@@ -18,9 +18,4 @@ I am extremely interested in pursuing rocketry, robotics, and mechatronics. Feel
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 
 
-## 📞 Contact Information
-
-- 📧 **Email**: [wilsonlo800@gmail.com](mailto:wilsonlo800@gmail.com)
-- 📱 **Phone**: +1 (510)-299-7368
-
 ---
