@@ -3,7 +3,7 @@
 ## About Me
 I'm a high school developer experienced with mobile app and game development. My main projects are developed using Flutter, Godot, and React Native. I am most comfortable with Java, but can also use Python, C++, and many other languages.
 
-I am extremely interested in pursuing rocketry, robotics, and mechatronics. Feel free to reach out about any projects you'd like me to work on!
+I am extremely interested in pursuing rocketry, robotics, and mechatronics, with a focus on VLA (Vision-Language-Action) model training and physical AI in general. Feel free to reach out about any projects you'd like me to work on!
 
 
 ## Tech Stack
@@ -16,6 +16,10 @@ I am extremely interested in pursuing rocketry, robotics, and mechatronics. Feel
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Xcode](https://img.shields.io/badge/-Xcode-007ACC?style=flat-square&logo=xcode&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![ROS 2](https://img.shields.io/badge/-ROS%202-22314E?style=flat-square&logo=ros&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![LeRobot](https://img.shields.io/badge/-LeRobot-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 
 ---
